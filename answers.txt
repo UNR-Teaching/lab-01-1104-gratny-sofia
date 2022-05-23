@@ -1,0 +1,9 @@
+// Author: Sofia Gratny
+
+1. Makes a text file called newfile.txt and lets you edit it.
+2. On branch master
+	Your branch is up to date with 'origin/master'.
+	Changes to be committed:
+ 	 (use "git reset HEAD <file>..." to unstage)
+	new file:   newfile.txt
+3. It shows the changes made to that certain file.
